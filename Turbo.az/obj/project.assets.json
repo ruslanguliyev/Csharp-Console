@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Turbo.az\\Turbo.az\\Turbo.az.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\repos\\Turbo.az\\Turbo.az\\Turbo.az.csproj",
       "projectName": "Turbo.az",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Turbo.az\\Turbo.az\\Turbo.az.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\repos\\Turbo.az\\Turbo.az\\Turbo.az.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Turbo.az\\Turbo.az\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\repos\\Turbo.az\\Turbo.az\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
